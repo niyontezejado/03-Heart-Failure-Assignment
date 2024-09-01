@@ -1,4 +1,4 @@
-# Heart Failure Prediction Assignment
+# Heart Failure Prediction 
 
 This Jupyter notebook is dedicated to analyzing and predicting heart failure outcomes using various machine learning models. The dataset includes patient information and is cleaned and processed before applying different predictive models.
 
