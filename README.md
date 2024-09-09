@@ -71,7 +71,7 @@ This notebook requires the following Python libraries:
 - matplotlib
 - seaborn
 - scikit-learn
-- tensorflow (for neural networks)
+- tensorflow keras (for neural networks)
 
 You can install these dependencies using pip:
 
